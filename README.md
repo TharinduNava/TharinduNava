@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **Advanced System Design, Cloud Infrastructure & AI Integrations**
 
-- 💼 Previously **Associate Software Engineer @ Glenzsoft**
+- 💼 Previously **Associate Software Engineer @ Glenzsoft (Pvt) Ltd**
 
 - 📫 How to reach me **t.n.hettige@gmail.com**
 
